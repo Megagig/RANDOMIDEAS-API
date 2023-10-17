@@ -2,6 +2,7 @@ const express = require('express');
 const port = 5000;
 const app = express();
 
+//Generate fake data
 const ideas = [
   {
     id: 1,
